@@ -1,2 +1,7 @@
-原本是存放model.pth文件的……太大了传不上来，补模（bushi）的话运行train.py就好
+原本是存放model.pth文件的……太大了传不上来
+补模（bushi）的话
+step1: 下载PlantVillage数据集按照
+step2: 运行train文件夹里的分类脚本split_dataset.py
+step3: 运行train文件夹里的flatten_dataset.py（问就是给分类脚本和train.py打补丁的史山代码）
+step4: 运行train.py
   （如果这玩意本来就不该传到这里那当我没说，拉低业内平均水平实在抱歉。。。）
