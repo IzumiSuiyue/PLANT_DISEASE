@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+pillow
+torch
+torchvision
+numpy
+scikit-learn
+python-dotenv
+dashscope
+httpx
